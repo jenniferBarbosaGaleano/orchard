@@ -1,0 +1,2760 @@
+[
+ {
+ "Point Type": "MP",
+ "Point Num": 1,
+ "Row Num": 1,
+ "Local X": 160,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 1,
+ "Row Num": 1,
+ "Local X": 160,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 2,
+ "Row Num": 2,
+ "Local X": 480,
+ "Local Y":15054
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 2,
+ "Row Num": 2,
+ "Local X": 480,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 3,
+ "Row Num": 3,
+ "Local X": 800,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 3,
+ "Row Num": 3,
+ "Local X": 800,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 4,
+ "Row Num": 4,
+ "Local X": 1120,
+ "Local Y":15052.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 4,
+ "Row Num": 4,
+ "Local X": 1120,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 5,
+ "Row Num": 5,
+ "Local X": 1440,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 5,
+ "Row Num": 5,
+ "Local X": 1440,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 6,
+ "Row Num": 6,
+ "Local X": 1760,
+ "Local Y":15050.6
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 6,
+ "Row Num": 6,
+ "Local X": 1760,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 7,
+ "Row Num": 7,
+ "Local X": 2080,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 7,
+ "Row Num": 7,
+ "Local X": 2080,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 8,
+ "Row Num": 8,
+ "Local X": 2400,
+ "Local Y":15048.9
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 8,
+ "Row Num": 8,
+ "Local X": 2400,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 9,
+ "Row Num": 9,
+ "Local X": 2720,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 9,
+ "Row Num": 9,
+ "Local X": 2720,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 10,
+ "Row Num": 10,
+ "Local X": 3040,
+ "Local Y":15047.2
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 10,
+ "Row Num": 10,
+ "Local X": 3040,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 11,
+ "Row Num": 11,
+ "Local X": 3360,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 11,
+ "Row Num": 11,
+ "Local X": 3360,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 12,
+ "Row Num": 12,
+ "Local X": 3680,
+ "Local Y":15045.5
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 12,
+ "Row Num": 12,
+ "Local X": 3680,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 13,
+ "Row Num": 13,
+ "Local X": 4000,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 13,
+ "Row Num": 13,
+ "Local X": 4000,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 14,
+ "Row Num": 14,
+ "Local X": 4320,
+ "Local Y":15043.9
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 14,
+ "Row Num": 14,
+ "Local X": 4320,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 15,
+ "Row Num": 15,
+ "Local X": 4640,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 15,
+ "Row Num": 15,
+ "Local X": 4640,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 16,
+ "Row Num": 16,
+ "Local X": 4960,
+ "Local Y":15042.2
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 16,
+ "Row Num": 16,
+ "Local X": 4960,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 17,
+ "Row Num": 17,
+ "Local X": 5280,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 17,
+ "Row Num": 17,
+ "Local X": 5280,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 18,
+ "Row Num": 18,
+ "Local X": 5600,
+ "Local Y":15040.5
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 18,
+ "Row Num": 18,
+ "Local X": 5600,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 19,
+ "Row Num": 19,
+ "Local X": 5920,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 19,
+ "Row Num": 19,
+ "Local X": 5920,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 20,
+ "Row Num": 20,
+ "Local X": 6240,
+ "Local Y":15038.8
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 20,
+ "Row Num": 20,
+ "Local X": 6240,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 21,
+ "Row Num": 21,
+ "Local X": 6560,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 21,
+ "Row Num": 21,
+ "Local X": 6560,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 22,
+ "Row Num": 22,
+ "Local X": 6880,
+ "Local Y":15037.1
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 22,
+ "Row Num": 22,
+ "Local X": 6880,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 23,
+ "Row Num": 23,
+ "Local X": 7200,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 23,
+ "Row Num": 23,
+ "Local X": 7200,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 24,
+ "Row Num": 24,
+ "Local X": 7520,
+ "Local Y":15035.4
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 24,
+ "Row Num": 24,
+ "Local X": 7520,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 25,
+ "Row Num": 25,
+ "Local X": 7840,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 25,
+ "Row Num": 25,
+ "Local X": 7840,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 26,
+ "Row Num": 26,
+ "Local X": 8160,
+ "Local Y":15033.7
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 26,
+ "Row Num": 26,
+ "Local X": 8160,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 27,
+ "Row Num": 27,
+ "Local X": 8480,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 27,
+ "Row Num": 27,
+ "Local X": 8480,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 28,
+ "Row Num": 28,
+ "Local X": 8800,
+ "Local Y":15032
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 28,
+ "Row Num": 28,
+ "Local X": 8800,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 29,
+ "Row Num": 29,
+ "Local X": 9120,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 29,
+ "Row Num": 29,
+ "Local X": 9120,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 30,
+ "Row Num": 30,
+ "Local X": 9440,
+ "Local Y":15030.4
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 30,
+ "Row Num": 30,
+ "Local X": 9440,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 31,
+ "Row Num": 31,
+ "Local X": 9760,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 31,
+ "Row Num": 31,
+ "Local X": 9760,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 32,
+ "Row Num": 32,
+ "Local X": 10080,
+ "Local Y":15028.7
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 32,
+ "Row Num": 32,
+ "Local X": 10080,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 33,
+ "Row Num": 33,
+ "Local X": 10400,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 33,
+ "Row Num": 33,
+ "Local X": 10400,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 34,
+ "Row Num": 34,
+ "Local X": 10720,
+ "Local Y":15026.8
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 34,
+ "Row Num": 34,
+ "Local X": 10720,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 35,
+ "Row Num": 35,
+ "Local X": 11040,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 35,
+ "Row Num": 35,
+ "Local X": 11040,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 36,
+ "Row Num": 36,
+ "Local X": 11360,
+ "Local Y":14987.2
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 36,
+ "Row Num": 36,
+ "Local X": 11360,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 37,
+ "Row Num": 37,
+ "Local X": 11680,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 37,
+ "Row Num": 37,
+ "Local X": 11680,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 38,
+ "Row Num": 38,
+ "Local X": 12000,
+ "Local Y":14947.7
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 38,
+ "Row Num": 38,
+ "Local X": 12000,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 39,
+ "Row Num": 39,
+ "Local X": 12320,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 39,
+ "Row Num": 39,
+ "Local X": 12320,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 40,
+ "Row Num": 40,
+ "Local X": 12640,
+ "Local Y":14908.2
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 40,
+ "Row Num": 40,
+ "Local X": 12640,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 41,
+ "Row Num": 41,
+ "Local X": 12960,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 41,
+ "Row Num": 41,
+ "Local X": 12960,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 42,
+ "Row Num": 42,
+ "Local X": 13280,
+ "Local Y":14868.7
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 42,
+ "Row Num": 42,
+ "Local X": 13280,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 43,
+ "Row Num": 43,
+ "Local X": 13600,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 43,
+ "Row Num": 43,
+ "Local X": 13600,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 44,
+ "Row Num": 44,
+ "Local X": 13920,
+ "Local Y":14829.1
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 44,
+ "Row Num": 44,
+ "Local X": 13920,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 45,
+ "Row Num": 45,
+ "Local X": 14240,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 45,
+ "Row Num": 45,
+ "Local X": 14240,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 46,
+ "Row Num": 46,
+ "Local X": 14560,
+ "Local Y":14789.6
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 46,
+ "Row Num": 46,
+ "Local X": 14560,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 47,
+ "Row Num": 47,
+ "Local X": 14880,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 47,
+ "Row Num": 47,
+ "Local X": 14880,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 48,
+ "Row Num": 48,
+ "Local X": 15200,
+ "Local Y":14750.1
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 48,
+ "Row Num": 48,
+ "Local X": 15200,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 49,
+ "Row Num": 49,
+ "Local X": 15520,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 49,
+ "Row Num": 49,
+ "Local X": 15520,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 50,
+ "Row Num": 50,
+ "Local X": 15840,
+ "Local Y":14710.6
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 50,
+ "Row Num": 50,
+ "Local X": 15840,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 51,
+ "Row Num": 51,
+ "Local X": 16160,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 51,
+ "Row Num": 51,
+ "Local X": 16160,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 52,
+ "Row Num": 52,
+ "Local X": 16480,
+ "Local Y":14671
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 52,
+ "Row Num": 52,
+ "Local X": 16480,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 53,
+ "Row Num": 53,
+ "Local X": 16800,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 53,
+ "Row Num": 53,
+ "Local X": 16800,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 54,
+ "Row Num": 54,
+ "Local X": 17120,
+ "Local Y":14631.5
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 54,
+ "Row Num": 54,
+ "Local X": 17120,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 55,
+ "Row Num": 55,
+ "Local X": 17440,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 55,
+ "Row Num": 55,
+ "Local X": 17440,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 56,
+ "Row Num": 56,
+ "Local X": 17760,
+ "Local Y":14592
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 56,
+ "Row Num": 56,
+ "Local X": 17760,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 57,
+ "Row Num": 57,
+ "Local X": 18080,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 57,
+ "Row Num": 57,
+ "Local X": 18080,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 58,
+ "Row Num": 58,
+ "Local X": 18400,
+ "Local Y":14552.5
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 58,
+ "Row Num": 58,
+ "Local X": 18400,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 59,
+ "Row Num": 59,
+ "Local X": 18720,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 59,
+ "Row Num": 59,
+ "Local X": 18720,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 60,
+ "Row Num": 60,
+ "Local X": 19040,
+ "Local Y":14512.9
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 60,
+ "Row Num": 60,
+ "Local X": 19040,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 61,
+ "Row Num": 61,
+ "Local X": 19360,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 61,
+ "Row Num": 61,
+ "Local X": 19360,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 62,
+ "Row Num": 62,
+ "Local X": 19680,
+ "Local Y":14473.4
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 62,
+ "Row Num": 62,
+ "Local X": 19680,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 63,
+ "Row Num": 63,
+ "Local X": 20000,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 63,
+ "Row Num": 63,
+ "Local X": 20000,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 64,
+ "Row Num": 64,
+ "Local X": 20320,
+ "Local Y":14433.9
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 64,
+ "Row Num": 64,
+ "Local X": 20320,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 65,
+ "Row Num": 65,
+ "Local X": 20640,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 65,
+ "Row Num": 65,
+ "Local X": 20640,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 66,
+ "Row Num": 66,
+ "Local X": 20960,
+ "Local Y":14394.4
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 66,
+ "Row Num": 66,
+ "Local X": 20960,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 67,
+ "Row Num": 67,
+ "Local X": 21280,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 67,
+ "Row Num": 67,
+ "Local X": 21280,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 68,
+ "Row Num": 68,
+ "Local X": 21600,
+ "Local Y":14354.9
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 68,
+ "Row Num": 68,
+ "Local X": 21600,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 69,
+ "Row Num": 69,
+ "Local X": 21920,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 69,
+ "Row Num": 69,
+ "Local X": 21920,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 70,
+ "Row Num": 70,
+ "Local X": 22240,
+ "Local Y":14315.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 70,
+ "Row Num": 70,
+ "Local X": 22240,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 71,
+ "Row Num": 71,
+ "Local X": 22560,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 71,
+ "Row Num": 71,
+ "Local X": 22560,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 72,
+ "Row Num": 72,
+ "Local X": 22880,
+ "Local Y":14275.8
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 72,
+ "Row Num": 72,
+ "Local X": 22880,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 73,
+ "Row Num": 73,
+ "Local X": 23200,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 73,
+ "Row Num": 73,
+ "Local X": 23200,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 74,
+ "Row Num": 74,
+ "Local X": 23520,
+ "Local Y":14236.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 74,
+ "Row Num": 74,
+ "Local X": 23520,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 75,
+ "Row Num": 75,
+ "Local X": 23840,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 75,
+ "Row Num": 75,
+ "Local X": 23840,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 76,
+ "Row Num": 76,
+ "Local X": 24160,
+ "Local Y":14196.8
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 76,
+ "Row Num": 76,
+ "Local X": 24160,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 77,
+ "Row Num": 77,
+ "Local X": 24480,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 77,
+ "Row Num": 77,
+ "Local X": 24480,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 78,
+ "Row Num": 78,
+ "Local X": 24800,
+ "Local Y":14157.2
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 78,
+ "Row Num": 78,
+ "Local X": 24800,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 79,
+ "Row Num": 79,
+ "Local X": 25120,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 79,
+ "Row Num": 79,
+ "Local X": 25120,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 80,
+ "Row Num": 80,
+ "Local X": 25440,
+ "Local Y":14117.7
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 80,
+ "Row Num": 80,
+ "Local X": 25440,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 81,
+ "Row Num": 81,
+ "Local X": 25760,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 81,
+ "Row Num": 81,
+ "Local X": 25760,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 82,
+ "Row Num": 82,
+ "Local X": 26080,
+ "Local Y":14078.2
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 82,
+ "Row Num": 82,
+ "Local X": 26080,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 83,
+ "Row Num": 83,
+ "Local X": 26400,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 83,
+ "Row Num": 83,
+ "Local X": 26400,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 84,
+ "Row Num": 84,
+ "Local X": 26720,
+ "Local Y":14038.7
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 84,
+ "Row Num": 84,
+ "Local X": 26720,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 85,
+ "Row Num": 85,
+ "Local X": 27040,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 85,
+ "Row Num": 85,
+ "Local X": 27040,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 86,
+ "Row Num": 86,
+ "Local X": 27360,
+ "Local Y":13999.1
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 86,
+ "Row Num": 86,
+ "Local X": 27360,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 87,
+ "Row Num": 87,
+ "Local X": 27680,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 87,
+ "Row Num": 87,
+ "Local X": 27680,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 88,
+ "Row Num": 88,
+ "Local X": 28000,
+ "Local Y":13959.6
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 88,
+ "Row Num": 88,
+ "Local X": 28000,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 89,
+ "Row Num": 89,
+ "Local X": 28320,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 89,
+ "Row Num": 89,
+ "Local X": 28320,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 90,
+ "Row Num": 90,
+ "Local X": 28640,
+ "Local Y":13920.1
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 90,
+ "Row Num": 90,
+ "Local X": 28640,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 91,
+ "Row Num": 91,
+ "Local X": 28960,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 91,
+ "Row Num": 91,
+ "Local X": 28960,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 92,
+ "Row Num": 92,
+ "Local X": 29280,
+ "Local Y":13880.6
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 92,
+ "Row Num": 92,
+ "Local X": 29280,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 93,
+ "Row Num": 93,
+ "Local X": 29600,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 93,
+ "Row Num": 93,
+ "Local X": 29600,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 94,
+ "Row Num": 94,
+ "Local X": 29920,
+ "Local Y":13841
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 94,
+ "Row Num": 94,
+ "Local X": 29920,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 95,
+ "Row Num": 95,
+ "Local X": 30240,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 95,
+ "Row Num": 95,
+ "Local X": 30240,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 96,
+ "Row Num": 96,
+ "Local X": 30560,
+ "Local Y":13801.5
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 96,
+ "Row Num": 96,
+ "Local X": 30560,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 97,
+ "Row Num": 97,
+ "Local X": 30880,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 97,
+ "Row Num": 97,
+ "Local X": 30880,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 98,
+ "Row Num": 98,
+ "Local X": 31200,
+ "Local Y":13762
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 98,
+ "Row Num": 98,
+ "Local X": 31200,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 99,
+ "Row Num": 99,
+ "Local X": 31520,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 99,
+ "Row Num": 99,
+ "Local X": 31520,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 100,
+ "Row Num": 100,
+ "Local X": 31840,
+ "Local Y":13721.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 100,
+ "Row Num": 100,
+ "Local X": 31840,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 101,
+ "Row Num": 101,
+ "Local X": 32160,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 101,
+ "Row Num": 101,
+ "Local X": 32160,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 102,
+ "Row Num": 102,
+ "Local X": 32480,
+ "Local Y":13668.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 102,
+ "Row Num": 102,
+ "Local X": 32480,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 103,
+ "Row Num": 103,
+ "Local X": 32800,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 103,
+ "Row Num": 103,
+ "Local X": 32800,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 104,
+ "Row Num": 104,
+ "Local X": 33120,
+ "Local Y":13615.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 104,
+ "Row Num": 104,
+ "Local X": 33120,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 105,
+ "Row Num": 105,
+ "Local X": 33440,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 105,
+ "Row Num": 105,
+ "Local X": 33440,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 106,
+ "Row Num": 106,
+ "Local X": 33760,
+ "Local Y":13562.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 106,
+ "Row Num": 106,
+ "Local X": 33760,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 107,
+ "Row Num": 107,
+ "Local X": 34080,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 107,
+ "Row Num": 107,
+ "Local X": 34080,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 108,
+ "Row Num": 108,
+ "Local X": 34400,
+ "Local Y":13509.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 108,
+ "Row Num": 108,
+ "Local X": 34400,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 109,
+ "Row Num": 109,
+ "Local X": 34720,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 109,
+ "Row Num": 109,
+ "Local X": 34720,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 110,
+ "Row Num": 110,
+ "Local X": 35040,
+ "Local Y":13456.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 110,
+ "Row Num": 110,
+ "Local X": 35040,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 111,
+ "Row Num": 111,
+ "Local X": 35360,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 111,
+ "Row Num": 111,
+ "Local X": 35360,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 112,
+ "Row Num": 112,
+ "Local X": 35680,
+ "Local Y":13403.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 112,
+ "Row Num": 112,
+ "Local X": 35680,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 113,
+ "Row Num": 113,
+ "Local X": 36000,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 113,
+ "Row Num": 113,
+ "Local X": 36000,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 114,
+ "Row Num": 114,
+ "Local X": 36320,
+ "Local Y":13350.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 114,
+ "Row Num": 114,
+ "Local X": 36320,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 115,
+ "Row Num": 115,
+ "Local X": 36640,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 115,
+ "Row Num": 115,
+ "Local X": 36640,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 116,
+ "Row Num": 116,
+ "Local X": 36960,
+ "Local Y":13297.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 116,
+ "Row Num": 116,
+ "Local X": 36960,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 117,
+ "Row Num": 117,
+ "Local X": 37280,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 117,
+ "Row Num": 117,
+ "Local X": 37280,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 118,
+ "Row Num": 118,
+ "Local X": 37600,
+ "Local Y":13244.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 118,
+ "Row Num": 118,
+ "Local X": 37600,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 119,
+ "Row Num": 119,
+ "Local X": 37920,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 119,
+ "Row Num": 119,
+ "Local X": 37920,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 120,
+ "Row Num": 120,
+ "Local X": 38240,
+ "Local Y":13191.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 120,
+ "Row Num": 120,
+ "Local X": 38240,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 121,
+ "Row Num": 121,
+ "Local X": 38560,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 121,
+ "Row Num": 121,
+ "Local X": 38560,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 122,
+ "Row Num": 122,
+ "Local X": 38880,
+ "Local Y":13138.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 122,
+ "Row Num": 122,
+ "Local X": 38880,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 123,
+ "Row Num": 123,
+ "Local X": 39200,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 123,
+ "Row Num": 123,
+ "Local X": 39200,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 124,
+ "Row Num": 124,
+ "Local X": 39520,
+ "Local Y":13085.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 124,
+ "Row Num": 124,
+ "Local X": 39520,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 125,
+ "Row Num": 125,
+ "Local X": 39840,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 125,
+ "Row Num": 125,
+ "Local X": 39840,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 126,
+ "Row Num": 126,
+ "Local X": 40160,
+ "Local Y":13032.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 126,
+ "Row Num": 126,
+ "Local X": 40160,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 127,
+ "Row Num": 127,
+ "Local X": 40480,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 127,
+ "Row Num": 127,
+ "Local X": 40480,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 128,
+ "Row Num": 128,
+ "Local X": 40800,
+ "Local Y":12979.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 128,
+ "Row Num": 128,
+ "Local X": 40800,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 129,
+ "Row Num": 129,
+ "Local X": 41120,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 129,
+ "Row Num": 129,
+ "Local X": 41120,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 130,
+ "Row Num": 130,
+ "Local X": 41440,
+ "Local Y":12926.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 130,
+ "Row Num": 130,
+ "Local X": 41440,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 131,
+ "Row Num": 131,
+ "Local X": 41760,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 131,
+ "Row Num": 131,
+ "Local X": 41760,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 132,
+ "Row Num": 132,
+ "Local X": 42080,
+ "Local Y":12873.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 132,
+ "Row Num": 132,
+ "Local X": 42080,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 133,
+ "Row Num": 133,
+ "Local X": 42400,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 133,
+ "Row Num": 133,
+ "Local X": 42400,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 134,
+ "Row Num": 134,
+ "Local X": 42720,
+ "Local Y":12820.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 134,
+ "Row Num": 134,
+ "Local X": 42720,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 135,
+ "Row Num": 135,
+ "Local X": 43040,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 135,
+ "Row Num": 135,
+ "Local X": 43040,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 136,
+ "Row Num": 136,
+ "Local X": 43360,
+ "Local Y":12767.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 136,
+ "Row Num": 136,
+ "Local X": 43360,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 137,
+ "Row Num": 137,
+ "Local X": 43680,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 137,
+ "Row Num": 137,
+ "Local X": 43680,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 138,
+ "Row Num": 138,
+ "Local X": 44000,
+ "Local Y":12714.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 138,
+ "Row Num": 138,
+ "Local X": 44000,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 139,
+ "Row Num": 139,
+ "Local X": 44320,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 139,
+ "Row Num": 139,
+ "Local X": 44320,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 140,
+ "Row Num": 140,
+ "Local X": 44640,
+ "Local Y":12511.4
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 140,
+ "Row Num": 140,
+ "Local X": 44640,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 141,
+ "Row Num": 141,
+ "Local X": 44960,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 141,
+ "Row Num": 141,
+ "Local X": 44960,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 142,
+ "Row Num": 142,
+ "Local X": 45280,
+ "Local Y":12229.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 142,
+ "Row Num": 142,
+ "Local X": 45280,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 143,
+ "Row Num": 143,
+ "Local X": 45600,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 143,
+ "Row Num": 143,
+ "Local X": 45600,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 144,
+ "Row Num": 144,
+ "Local X": 45920,
+ "Local Y":11947.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 144,
+ "Row Num": 144,
+ "Local X": 45920,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 145,
+ "Row Num": 145,
+ "Local X": 46240,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 145,
+ "Row Num": 145,
+ "Local X": 46240,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 146,
+ "Row Num": 146,
+ "Local X": 46560,
+ "Local Y":11665.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 146,
+ "Row Num": 146,
+ "Local X": 46560,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 147,
+ "Row Num": 147,
+ "Local X": 46880,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 147,
+ "Row Num": 147,
+ "Local X": 46880,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 148,
+ "Row Num": 148,
+ "Local X": 47200,
+ "Local Y":11383.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 148,
+ "Row Num": 148,
+ "Local X": 47200,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 149,
+ "Row Num": 149,
+ "Local X": 47520,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 149,
+ "Row Num": 149,
+ "Local X": 47520,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 150,
+ "Row Num": 150,
+ "Local X": 47840,
+ "Local Y":11101.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 150,
+ "Row Num": 150,
+ "Local X": 47840,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 151,
+ "Row Num": 151,
+ "Local X": 48160,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 151,
+ "Row Num": 151,
+ "Local X": 48160,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 152,
+ "Row Num": 152,
+ "Local X": 48480,
+ "Local Y":10819.3
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 152,
+ "Row Num": 152,
+ "Local X": 48480,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 153,
+ "Row Num": 153,
+ "Local X": 48800,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 153,
+ "Row Num": 153,
+ "Local X": 48800,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 154,
+ "Row Num": 154,
+ "Local X": 49120,
+ "Local Y":10537.2
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 154,
+ "Row Num": 154,
+ "Local X": 49120,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 155,
+ "Row Num": 155,
+ "Local X": 49440,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 155,
+ "Row Num": 155,
+ "Local X": 49440,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 156,
+ "Row Num": 156,
+ "Local X": 49760,
+ "Local Y":10255.2
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 156,
+ "Row Num": 156,
+ "Local X": 49760,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 157,
+ "Row Num": 157,
+ "Local X": 50080,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 157,
+ "Row Num": 157,
+ "Local X": 50080,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 158,
+ "Row Num": 158,
+ "Local X": 50400,
+ "Local Y":9973.21
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 158,
+ "Row Num": 158,
+ "Local X": 50400,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 159,
+ "Row Num": 159,
+ "Local X": 50720,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 159,
+ "Row Num": 159,
+ "Local X": 50720,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 160,
+ "Row Num": 160,
+ "Local X": 51040,
+ "Local Y":9691.19
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 160,
+ "Row Num": 160,
+ "Local X": 51040,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 161,
+ "Row Num": 161,
+ "Local X": 51360,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 161,
+ "Row Num": 161,
+ "Local X": 51360,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 162,
+ "Row Num": 162,
+ "Local X": 51680,
+ "Local Y":9409.17
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 162,
+ "Row Num": 162,
+ "Local X": 51680,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 163,
+ "Row Num": 163,
+ "Local X": 52000,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 163,
+ "Row Num": 163,
+ "Local X": 52000,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 164,
+ "Row Num": 164,
+ "Local X": 52320,
+ "Local Y":9127.16
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 164,
+ "Row Num": 164,
+ "Local X": 52320,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 165,
+ "Row Num": 165,
+ "Local X": 52640,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 165,
+ "Row Num": 165,
+ "Local X": 52640,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 166,
+ "Row Num": 166,
+ "Local X": 52960,
+ "Local Y":8845.14
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 166,
+ "Row Num": 166,
+ "Local X": 52960,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 167,
+ "Row Num": 167,
+ "Local X": 53280,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 167,
+ "Row Num": 167,
+ "Local X": 53280,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 168,
+ "Row Num": 168,
+ "Local X": 53600,
+ "Local Y":8563.12
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 168,
+ "Row Num": 168,
+ "Local X": 53600,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 169,
+ "Row Num": 169,
+ "Local X": 53920,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 169,
+ "Row Num": 169,
+ "Local X": 53920,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 170,
+ "Row Num": 170,
+ "Local X": 54240,
+ "Local Y":8281.11
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 170,
+ "Row Num": 170,
+ "Local X": 54240,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 171,
+ "Row Num": 171,
+ "Local X": 54560,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 171,
+ "Row Num": 171,
+ "Local X": 54560,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 172,
+ "Row Num": 172,
+ "Local X": 54880,
+ "Local Y":7999.09
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 172,
+ "Row Num": 172,
+ "Local X": 54880,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 173,
+ "Row Num": 173,
+ "Local X": 55200,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 173,
+ "Row Num": 173,
+ "Local X": 55200,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 174,
+ "Row Num": 174,
+ "Local X": 55520,
+ "Local Y":7717.07
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 174,
+ "Row Num": 174,
+ "Local X": 55520,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 175,
+ "Row Num": 175,
+ "Local X": 55840,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 175,
+ "Row Num": 175,
+ "Local X": 55840,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 176,
+ "Row Num": 176,
+ "Local X": 56160,
+ "Local Y":7435.05
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 176,
+ "Row Num": 176,
+ "Local X": 56160,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 177,
+ "Row Num": 177,
+ "Local X": 56480,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 177,
+ "Row Num": 177,
+ "Local X": 56480,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 178,
+ "Row Num": 178,
+ "Local X": 56800,
+ "Local Y":7153.04
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 178,
+ "Row Num": 178,
+ "Local X": 56800,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 179,
+ "Row Num": 179,
+ "Local X": 57120,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 179,
+ "Row Num": 179,
+ "Local X": 57120,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 180,
+ "Row Num": 180,
+ "Local X": 57440,
+ "Local Y":6871.02
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 180,
+ "Row Num": 180,
+ "Local X": 57440,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 181,
+ "Row Num": 181,
+ "Local X": 57760,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 181,
+ "Row Num": 181,
+ "Local X": 57760,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 182,
+ "Row Num": 182,
+ "Local X": 58080,
+ "Local Y":6589
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 182,
+ "Row Num": 182,
+ "Local X": 58080,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 183,
+ "Row Num": 183,
+ "Local X": 58400,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 183,
+ "Row Num": 183,
+ "Local X": 58400,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 184,
+ "Row Num": 184,
+ "Local X": 58720,
+ "Local Y":6306.98
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 184,
+ "Row Num": 184,
+ "Local X": 58720,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 185,
+ "Row Num": 185,
+ "Local X": 59040,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 185,
+ "Row Num": 185,
+ "Local X": 59040,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 186,
+ "Row Num": 186,
+ "Local X": 59360,
+ "Local Y":6024.97
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 186,
+ "Row Num": 186,
+ "Local X": 59360,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 187,
+ "Row Num": 187,
+ "Local X": 59680,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 187,
+ "Row Num": 187,
+ "Local X": 59680,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 188,
+ "Row Num": 188,
+ "Local X": 60000,
+ "Local Y":5369.57
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 188,
+ "Row Num": 188,
+ "Local X": 60000,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 189,
+ "Row Num": 189,
+ "Local X": 60320,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 189,
+ "Row Num": 189,
+ "Local X": 60320,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 190,
+ "Row Num": 190,
+ "Local X": 60640,
+ "Local Y":4708.85
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 190,
+ "Row Num": 190,
+ "Local X": 60640,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 191,
+ "Row Num": 191,
+ "Local X": 60960,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 191,
+ "Row Num": 191,
+ "Local X": 60960,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 192,
+ "Row Num": 192,
+ "Local X": 61280,
+ "Local Y":4048.13
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 192,
+ "Row Num": 192,
+ "Local X": 61280,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 193,
+ "Row Num": 193,
+ "Local X": 61600,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 193,
+ "Row Num": 193,
+ "Local X": 61600,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 194,
+ "Row Num": 194,
+ "Local X": 61920,
+ "Local Y":3387.42
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 194,
+ "Row Num": 194,
+ "Local X": 61920,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 195,
+ "Row Num": 195,
+ "Local X": 62240,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 195,
+ "Row Num": 195,
+ "Local X": 62240,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 196,
+ "Row Num": 196,
+ "Local X": 62560,
+ "Local Y":2726.7
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 196,
+ "Row Num": 196,
+ "Local X": 62560,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MP",
+ "Point Num": 197,
+ "Row Num": 197,
+ "Local X": 62880,
+ "Local Y":-160
+ },
+ {
+ "Point Type": "MK",
+ "Point Num": 197,
+ "Row Num": 197,
+ "Local X": 62880,
+ "Local Y":-160
+ },
+]

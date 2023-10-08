@@ -1,0 +1,169 @@
+#include <iostream>
+using namespace std;
+
+//hola
+    struct input_data{
+        float point_x;
+        float point_y;
+    };
+   
+    struct paramFence{
+        float beginX;
+        float beginY;
+        float endX;
+        float endY;
+    };
+    
+    input_data Data[100];
+    
+    void initialize();
+    int find_x(float input);
+    int find_y(float input);
+    int size_array_data();
+
+
+int main() {
+
+    paramFence Fence[10000];
+    float D,m;
+
+    #if 1
+    
+    Data[0].point_x = -401;
+    Data[1].point_x = -288;
+    Data[2].point_x = 10716;
+    Data[3].point_x = 31783;
+    Data[4].point_x = 44221;
+    Data[5].point_x = 59369;
+    Data[6].point_x = 64404;
+    Data[7].point_x = 64489;
+    Data[8].point_x = -401;
+    
+    Data[0].point_y = -160;
+    Data[1].point_y = 15056;
+    Data[2].point_y = 15027;
+    Data[3].point_y = 13726;
+    Data[4].point_y = 12696;
+    Data[5].point_y = 6021;
+    Data[6].point_y = 823;
+    Data[7].point_y = -160;
+    Data[8].point_y = -160;
+
+    D = 320;
+    #endif
+
+    #if 0
+    cout << "Width of the rows: \n";
+    cin >> D;
+    cout "Now Intrduce the coordinates of the fences: \n"
+    cin >> Data[0].point_x;
+    cout << "Coordinate Y of the firts point: \n";
+    cin >> Data[0].point_Y;
+    float dat_x = Data[0].point_x;
+    float dat_y =Data[0].point_y;
+    
+    int amount = 1;
+    
+        while(find_x(dat_x) != 1 && find_y(dat_y) != 1)
+        {
+            cout << "Coordinate X of the point " << amount << " : \n";
+            cin >> dat_x;
+            cout << "Coordinate Y of the firts point: \n";
+            cin >> dat_y;   
+            
+            Data[amount].point_x = dat_x;
+            Data[amount].point_y = dat_y;
+            amount ++;
+        }
+
+    #endif
+
+    Fence[0].beginX = D/2;
+    Fence[0].beginY = Data[0].point_y;
+    Fence[0].endX = D/2;
+    Fence[0].endY = Data[1].point_y;
+
+    cout << Fence[0].endY << "\n";
+    int j=1;
+    for(int i = 0; i < size_array_data() - 3; i++)
+    {
+        //Slope calculation
+        m = (Data[i+2].point_y - Data[i+1].point_y) / (Data[i+2].point_x - Data[i+1].point_x);
+
+        //cout << " m de " << i << " es: " << m <<"\n";}
+        
+        while((Fence[j-1].beginX < Data[i+2].point_x))
+        {
+            Fence[j].beginX = D + Fence[j-1].beginX;
+            Fence[j].beginY = Data[0].point_y;
+            Fence[j].endX = D + Fence[j-1].endX;
+            Fence[j].endY = (m * (Fence[j].endX - Data[i+1].point_x)) + Data[i+1].point_y;    
+
+            // if (Fence[j].beginX > Data[i+2].point_x) {
+            //     j++;
+            // }
+            //cout << Fence[j].beginX << "\n";
+            //cout << Fence[j].beginY << "\n";
+            //cout << Fence[j].endX << "\n";
+            cout << Fence[j].endY << "\n";
+            j++;
+        }     
+    } 
+    return 0;
+}
+
+    void initialize()
+    {
+        for(int i=0; i < sizeof(Data); i++)
+        {
+            Data[i].point_x = 0;
+            Data[i].point_y = 0;  
+        }
+
+    }
+  
+    
+    int find_x(float input)
+    {
+        int x = 0;
+        int i = 0;
+        
+        while(Data[i].point_x != 0)
+        {
+            if(Data[i].point_x == input)
+            {
+                x = 1;
+            }
+            
+            i++;
+        }
+        return x;
+    }
+    
+    int find_y(float input)
+    {
+        int y = 0;
+        int i = 0;
+        
+        while(Data[i].point_y != 0)
+        {
+            if(Data[i].point_y == input)
+            {
+                y = 1;
+            }
+            
+            i++;
+        }
+        return y;
+    }
+    
+    int size_array_data()
+    {
+        int i = 0;
+        
+        while(Data[i].point_x != 0 && Data[i].point_y != 0)
+        {
+            i++;
+        }
+        return i;       
+    }
